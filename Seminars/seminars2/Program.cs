@@ -82,3 +82,29 @@
 // }
 
 // Console.WriteLine(DoubleCheck(161));
+
+/*
+Задача 19
+Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
+14212 -> нет
+12821 -> да
+23432 -> да
+*/
+
+int Prompt (string message);
+{
+    System.Console.Write(message);
+    String value = Console.ReadLine();
+    int result = Convert.ToInt32(value);
+    return result;
+}
+
+int number = Prompt("ВВедите трехзначное число > ");
+if (number < 100 || number >= 1000)
+{
+    Console.WriteLine("Вы ввели не трехзначное число, пожалуйста повторите ввод");
+    return;
+}
+Console.WriteLine($"введите трехзначное число '(number)'");
+int secondRunk = number / 10 & 10;
+Console.WriteLine($"Вторая цифра '(secondRank)'");
