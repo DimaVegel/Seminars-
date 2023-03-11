@@ -1,0 +1,15 @@
+C:\Users\79831\Desktop\Seminars#\homeworks\itogProekt\bin\Debug\net6.0\itogProekt.exe
+C:\Users\79831\Desktop\Seminars#\homeworks\itogProekt\bin\Debug\net6.0\itogProekt.deps.json
+C:\Users\79831\Desktop\Seminars#\homeworks\itogProekt\bin\Debug\net6.0\itogProekt.runtimeconfig.json
+C:\Users\79831\Desktop\Seminars#\homeworks\itogProekt\bin\Debug\net6.0\itogProekt.dll
+C:\Users\79831\Desktop\Seminars#\homeworks\itogProekt\bin\Debug\net6.0\itogProekt.pdb
+C:\Users\79831\Desktop\Seminars#\homeworks\itogProekt\obj\Debug\net6.0\itogProekt.csproj.AssemblyReference.cache
+C:\Users\79831\Desktop\Seminars#\homeworks\itogProekt\obj\Debug\net6.0\itogProekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79831\Desktop\Seminars#\homeworks\itogProekt\obj\Debug\net6.0\itogProekt.AssemblyInfoInputs.cache
+C:\Users\79831\Desktop\Seminars#\homeworks\itogProekt\obj\Debug\net6.0\itogProekt.AssemblyInfo.cs
+C:\Users\79831\Desktop\Seminars#\homeworks\itogProekt\obj\Debug\net6.0\itogProekt.csproj.CoreCompileInputs.cache
+C:\Users\79831\Desktop\Seminars#\homeworks\itogProekt\obj\Debug\net6.0\itogProekt.dll
+C:\Users\79831\Desktop\Seminars#\homeworks\itogProekt\obj\Debug\net6.0\refint\itogProekt.dll
+C:\Users\79831\Desktop\Seminars#\homeworks\itogProekt\obj\Debug\net6.0\itogProekt.pdb
+C:\Users\79831\Desktop\Seminars#\homeworks\itogProekt\obj\Debug\net6.0\itogProekt.genruntimeconfig.cache
+C:\Users\79831\Desktop\Seminars#\homeworks\itogProekt\obj\Debug\net6.0\ref\itogProekt.dll
